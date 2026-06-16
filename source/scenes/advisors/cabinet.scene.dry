@@ -1,0 +1,14 @@
+title: Cabinet
+is-pinned-card: true
+tags: advisor
+card-image: img/governmentdeck.jpg
+
+= Cabinet
+
+With the [+ psi_name +] in government, we can decide what to do.
+
+- #govt_affaris
+- @back
+
+@back
+go-to: root
