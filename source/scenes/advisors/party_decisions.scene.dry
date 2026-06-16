@@ -1,0 +1,15 @@
+title: Party Decisions
+is-pinned-card: true
+tags: advisor
+card-image: img/partydeck.jpg
+on-arrival: last_advisor_action = 1
+new-page: true
+
+= Party Decisions
+
+- #party_affairs
+- @back: Return to main
+
+@back
+on-arrival: last_party_action = 0
+go-to: root
