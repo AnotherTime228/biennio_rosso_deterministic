@@ -13,4 +13,5 @@ With the [+ psi_name +] in government, we can decide what to do.
 - @back
 
 @back
+on-arrival: last_advisor_action = 0
 go-to: root
