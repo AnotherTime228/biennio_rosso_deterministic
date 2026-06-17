@@ -2,6 +2,8 @@ title: Cabinet
 is-pinned-card: true
 tags: advisor
 card-image: img/governmentdeck.jpg
+on-arrival: week_actions = 0
+view-if: psi_in_government
 
 = Cabinet
 
