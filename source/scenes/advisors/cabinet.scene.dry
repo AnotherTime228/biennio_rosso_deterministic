@@ -10,7 +10,7 @@ view-if: psi_in_government
 With the [+ psi_name +] in government, we can decide what to do.
 
 - #govt_affairs
-- @back
+- @back: Return to main
 
 @back
 on-arrival: last_advisor_action = 0
